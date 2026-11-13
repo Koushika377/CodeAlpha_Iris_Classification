@@ -137,6 +137,3 @@ plt.tight_layout()
 plt.savefig("iris_model_comparison.png", dpi=150)
 plt.close()
 
-print("\nAll plots saved. Confusion matrix: iris_confusion_matrix.png")
-print("Model comparison chart: iris_model_comparison.png")
-print("\nDone.")
